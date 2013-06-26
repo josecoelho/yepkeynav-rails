@@ -1,0 +1,25 @@
+= YepkeynavRails
+
+This project rocks and uses MIT-LICENSE.
+
+== Usage
+
+Add to your application.js
+
+//= require yepKeyNav
+
+== More Info
+
+https://github.com/josecoelho/yepKeyNav
+
+
+== Development
+
+Code from https://github.com/josecoelho/yepKeyNav should be updated after checkout
+
+    git submodule init
+    git submodule update
+
+== TODO
+
+Tests on dummy application

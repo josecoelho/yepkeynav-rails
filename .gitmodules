@@ -1,0 +1,3 @@
+[submodule "app/assets/javascripts/yepKeyNav"]
+	path = app/assets/javascripts/yepKeyNav
+	url = https://github.com/josecoelho/yepKeyNav.git
