@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    yepkeynav-rails (0.0.1)
+    yepkeynav-rails (0.0.2)
       rails (~> 3.2)
 
 GEM

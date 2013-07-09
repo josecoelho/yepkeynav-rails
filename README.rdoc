@@ -20,6 +20,13 @@ Code from https://github.com/josecoelho/yepKeyNav should be updated after checko
     git submodule init
     git submodule update
 
+== Publishing a new version
+
+Made changes, change version number on lib/yepkeynav-rails/version.rb, then...
+
+    gem build yepkeynav-rails.gemspec
+    gem push yepkeynav-rails-<VERSION>.gem
+
 == TODO
 
 Tests on dummy application
